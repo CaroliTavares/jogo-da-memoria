@@ -16,9 +16,10 @@
 
 ## Instruções para executar o jogo
 
-  Para executar o jogo você pode abrir pasta que criou  com um editor de texto como por exemplo **Visual Studio Code**.Você verá  na pasta os  arquivos **index.html**, **app.css**,  **app.js** que foram clonados. Para fazer alterações nos arquivos, verifique as classes das divs no arquivo html e veja no arquivo css onde elas se encontram, faça alguma alteração e veja o que acontece, isso é um começo.
+  Para executar o jogo você pode abrir a pasta que criou  com um editor de texto como por exemplo **Visual Studio Code**. Você verá  na pasta os  arquivos **index.html**, **app.css**,  **app.js** que foram clonados. Para fazer alterações nos arquivos, verifique as classes das divs no arquivo html e veja no arquivo css onde elas se encontram. Faça alguma alteração e veja o que acontece, isso é um começo.
 
 ## Lista de dependências do jogo
+Neste jogo foi utilizado alem dos próprios estilos e arquivos criados, o framework bootstrap e fontes de texto do google.
 
 ## Referencias
 1.  [CodePen](https://codepen.io/natewiley/pen/HBrbL)
