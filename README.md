@@ -21,7 +21,7 @@
 ## Lista de dependências do jogo
 Neste jogo foi utilizado além dos próprios estilos e arquivos criados, o framework bootstrap e fontes de texto do google.
 
-## Referencias
+## Referências
 1.  [CodePen](https://codepen.io/natewiley/pen/HBrbL)
 2.  [StackOverflow](https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array)
 3.  [Medium](https://medium.com/code-sketch/jogo-da-memoria-em-vanilla-javascript-6129e5eac7a5)
