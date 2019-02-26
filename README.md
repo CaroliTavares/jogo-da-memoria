@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-* [Instruções para baixar o jogo](#instructions)
-* [Inruções para executar o jogo](#contributing)
+* [Instruções para baixar o jogo](##Instruções para baixar o jogo)
+* [Intruções para executar o jogo](## Inruções para executar o jogo)
+* [ILista de dependências do jogo](## Inruções para executar o jogo)
 
-## Instructions
-
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## Intruções para baixar o jogo
+Este jogo da memória foi feito utilizando HTML, CSS e Javascript.Para baixar ele você pode acessar 
 
 
 The project instructions were established according to the [Udacity Classroom]
