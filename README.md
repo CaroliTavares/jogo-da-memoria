@@ -2,7 +2,7 @@
 
 ## Indice
 * [Instruções para baixar o jogo](#baixar)
-* [Intruções para executar o jogo](#executa)
+* [Instruções para executar o jogo](#executa)
 * [Lista de dependências do jogo](#dependencias)
 
 ## Intruções para baixar o jogo
