@@ -2,15 +2,15 @@
 
 ## Índice
 * [Instruções para baixar o jogo](#baixar)
-* [Instruções para executar o jogo](#executa)
+* [Instruções para executar o jogo](#executar)
 * [Lista de dependências do jogo](#dependencias)
 
 ## Intruções para baixar o jogo
-Este jogo da memória foi feito utilizando HTML, CSS e Javascript. Para baixar ele você pode clonar usando o seguinte comando  **git clone https://github.com/carolagro/jogo_da_memoria.git**
+Para baixar este jogo você pode clonar ele utilizando o seguinte comando  **git clone https://github.com/carolagro/jogo_da_memoria.git** no prompt de comando.
 
-
-The project instructions were established according to the [Udacity Classroom]
-(https://classroom.udacity.com/me).
+## Instruções para executar o jogo
+Este jogo da memória foi feito utilizando HTML, CSS e Javascript, de acordo com as instruções estabelecidas pela 
+[Udacity Classroom](https://classroom.udacity.com/me).
 
 ## References
 1.  [CodePen](https://codepen.io/natewiley/pen/HBrbL)
