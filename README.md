@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-* [Instruções para baixar o jogo](##Instruções para baixar o jogo)
-* [Intruções para executar o jogo](## Inruções para executar o jogo)
-* [ILista de dependências do jogo](## Inruções para executar o jogo)
+* [Instruções para baixar o jogo](#Instruções para baixar o jogo)
+* [Intruções para executar o jogo](# Inruções para executar o jogo)
+* [ILista de dependências do jogo](# Inruções para executar o jogo)
 
 ## Intruções para baixar o jogo
 Este jogo da memória foi feito utilizando HTML, CSS e Javascript.Para baixar ele você pode acessar 
