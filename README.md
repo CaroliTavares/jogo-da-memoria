@@ -1,7 +1,6 @@
 # Jogo a Memória- projeto Udacity
 
-## Table of Contents
-* [Instructions](#instructions)
+## Indice
 * [Instruções para baixar o jogo](#baixar)
 * [Intruções para executar o jogo](#executa)
 * [Lista de dependências do jogo](#dependencias)
