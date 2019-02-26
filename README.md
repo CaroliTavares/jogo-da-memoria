@@ -11,7 +11,7 @@
 
 ## Componentes do jogo
   Este jogo da memória foi feito utilizando HTML, CSS e Javascript, de acordo com as instruções estabelecidas pela 
-[Udacity Classroom](https://classroom.udacity.com/me). O HTML é estruturado a partir da distribuição de 16 cartas contendo 8 símbolos diferentes. O arquivo CSS contém elementos que dão o tamanho, formato, e estilo da página. Além disso há elementos que  tornam a página responsiva a partir da adição de media queries. 
+[Udacity Classroom](https://classroom.udacity.com/me). O HTML é estruturado a partir da distribuição de 16 cartas contendo 8 símbolos diferentes. O arquivo CSS contém elementos que dão o tamanho, formato, e estilo da página. Além disso há elementos que  tornam a página responsiva a partir da adição de media queries.<br>
   O arquivo **app.js** contém os elementos que compõem a lógica do jogo ou seja funções que embaralham as cartas, comparam duas cartas para verificar se são iguais e em caso afirmativo elas ficam imóveis na página. Além disso há funções para contar o tempo, contar o número de jogadas e classificar por estrelas o desempenho do jogador.
 
 ## Instruções para executar o jogo
