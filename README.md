@@ -1,4 +1,4 @@
-# Jogo a Memória- projeto Udacity
+# Jogo a Memória - projeto Udacity
 
 ## Índice
 * [Instruções para baixar o jogo](#baixar)
@@ -6,7 +6,7 @@
 * [Lista de dependências do jogo](#dependencias)
 
 ## Intruções para baixar o jogo
-Este jogo da memória foi feito utilizando HTML, CSS e Javascript.Para baixar ele você pode acessar 
+Este jogo da memória foi feito utilizando HTML, CSS e Javascript. Para baixar ele você pode clonar usando o seguinte comando _ git clone https://github.com/carolagro/jogo_da_memoria.git _
 
 
 The project instructions were established according to the [Udacity Classroom]
