@@ -19,7 +19,7 @@
   Para executar o jogo você pode abrir a pasta que criou  com um editor de texto como por exemplo **Visual Studio Code**. Você verá  na pasta os  arquivos **index.html**, **app.css**,  **app.js** que foram clonados. Para fazer alterações nos arquivos, verifique as classes das divs no arquivo html e veja no arquivo css onde elas se encontram. Faça alguma alteração e veja o que acontece, isso é um começo.
 
 ## Lista de dependências do jogo
-Neste jogo foi utilizado alem dos próprios estilos e arquivos criados, o framework bootstrap e fontes de texto do google.
+Neste jogo foi utilizado além dos próprios estilos e arquivos criados, o framework bootstrap e fontes de texto do google.
 
 ## Referencias
 1.  [CodePen](https://codepen.io/natewiley/pen/HBrbL)
@@ -27,4 +27,4 @@ Neste jogo foi utilizado alem dos próprios estilos e arquivos criados, o framew
 3.  [Medium](https://medium.com/code-sketch/jogo-da-memoria-em-vanilla-javascript-6129e5eac7a5)
 1.  [CodePen](https://codepen.io/Caysle/pen/aYYKRp)
 
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+
